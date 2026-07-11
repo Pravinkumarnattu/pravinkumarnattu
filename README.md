@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/pravinkumarnattu/"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://leetcode.com/u/Pravin_kumar_2/"><img src="https://img.shields.io/badge/LeetCode-24243e?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 <a href="mailto:pravinkumarnattu@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-24243e?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" /></a>
+<a href="./Pravin's Resume new (1).pdf"><img src="https://img.shields.io/badge/Resume-24243e?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Pravinkumarnattu&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=24243e" />
 
