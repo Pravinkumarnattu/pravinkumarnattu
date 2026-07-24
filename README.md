@@ -110,12 +110,12 @@ I'm a **MERN stack developer** who enjoys turning ideas into responsive, product
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Go Business — Referral Dashboard
+### Food Waste Exchange -- MERN Stack Donation Platform
 *2026*
 
-Secure, responsive referral management dashboard with JWT authentication, real-time overview metrics, and a searchable, sortable referrals table backed by a live REST API. Implemented client-side search, date sorting, and pagination with cookie-based session persistence.
+Built a multi-role MERN platform connecting food donors, NGOs, and volunteers, featuring dynamic role-based registration, JWT authentication, and secure cookie-based session management.Implemented role-based API access control with Express middleware and bcrypt password hashing, including protected admin provisioning to prevent unauthorized privilege escalation.
 
-`React.js` `React Router` `JS-Cookie` `REST API` `CSS` `Vercel`
+`React.js` `React Router` `Node.js` `Express.js` `Mongoose` `JWT` `bcrypt` `Axios` `JS-Cookie`
 
 <a href="https://github.com/Pravinkumarnattu"><img src="https://img.shields.io/badge/Code-24243e?style=flat-square&logo=github&logoColor=00D9FF" /></a>
 <img src="https://img.shields.io/badge/Live_Demo-24243e?style=flat-square&logo=vercel&logoColor=white" />
