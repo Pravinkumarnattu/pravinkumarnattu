@@ -117,7 +117,8 @@ Built a multi-role MERN platform connecting food donors, NGOs, and volunteers, f
 
 `React.js` `React Router` `Node.js` `Express.js` `Mongoose` `JWT` `bcrypt` `Axios` `JS-Cookie`
 
-<a href="https://github.com/Pravinkumarnattu"><img src="https://img.shields.io/badge/Code-24243e?style=flat-square&logo=github&logoColor=00D9FF" /></a>
+<a href="https://github.com/Pravinkumarnattu/Food-Waste-Exchange"><img src="https://img.shields.io/badge/Code-24243e?style=flat-square&logo=github&logoColor=00D9FF" /></a>
+
 <img src="https://img.shields.io/badge/Live_Demo-24243e?style=flat-square&logo=vercel&logoColor=white" />
 
 </td>
@@ -130,7 +131,7 @@ Multi-page e-commerce app with Login, Product Listing, and Cart components. Buil
 
 `React.js` `JavaScript` `CSS` `Bootstrap` `React Router` `REST APIs` `JWT`
 
-<a href="https://github.com/Pravinkumarnattu"><img src="https://img.shields.io/badge/Code-24243e?style=flat-square&logo=github&logoColor=00D9FF" /></a>
+<a href="https://github.com/Pravinkumarnattu/Nxt-Trendz"><img src="https://img.shields.io/badge/Code-24243e?style=flat-square&logo=github&logoColor=00D9FF" /></a>
 <img src="https://img.shields.io/badge/Live_Demo-24243e?style=flat-square&logo=vercel&logoColor=white" />
 
 </td>
