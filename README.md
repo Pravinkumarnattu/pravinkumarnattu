@@ -8,15 +8,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;JWT+Authentication+%7C+REST+APIs;260%2B+LeetCode+Problems+Solved;Building+Real-World+Full+Stack+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;JWT+Authentication+%7C+REST+APIs;280%2B+LeetCode+Problems+Solved;Building+Real-World+Full+Stack+Products" />
 
 <br/><br/>
 
+<a href="https://pravinkumar-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
 <a href="https://github.com/Pravinkumarnattu"><img src="https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
-<a href="https://www.linkedin.com/in/pravinkumarnattu/"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://www.linkedin.com/in/pravinkumar/"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://leetcode.com/u/Pravin_kumar_2/"><img src="https://img.shields.io/badge/LeetCode-24243e?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 <a href="mailto:pravinkumarnattu@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://drive.google.com/file/d/1RsBoNqoyc0GYsUA5BxnQDnHbq6SSz36O/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-24243e?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Pravinkumarnattu&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=24243e" />
 
@@ -33,15 +33,17 @@
 ```
 > const pravin = {
     role: "SDE Aspirant | MERN Stack Developer",
-    education: "B.E. ECE @ KIOT, Salem — CGPA 7.7",
+    education: "B.E. ECE @ KIOT, Salem — CGPA 7.8",
     focus: ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs"],
     currentlyBuilding: "Full-stack products with secure JWT authentication",
-    problemsSolved: "260+ on LeetCode",
+    problemsSolved: "280+ on LeetCode",
     funFact: "Automated LinkedIn/Twitter workflows with AI agents, cutting manual work by 70%"
   }
 ```
 
 I'm a **MERN stack developer** who enjoys turning ideas into responsive, production-ready web applications. My work spans building secure REST APIs, protected authentication flows, and clean, reusable UI components. I'm actively seeking a **full-time SDE role** where I can apply my full-stack skills to real engineering problems.
+
+📄 Check out my **[portfolio](https://pravinkumar-dev.vercel.app/)** for a closer look at my work.
 
 <br/>
 
@@ -111,14 +113,13 @@ I'm a **MERN stack developer** who enjoys turning ideas into responsive, product
 <td width="50%" valign="top">
 
 ### ♻️ Food Waste Exchange — MERN Stack Donation Platform
-*2026*
+*July 2026*
 
-Built a multi-role MERN platform connecting food donors, NGOs, and volunteers, featuring dynamic role-based registration, JWT authentication, and secure cookie-based session management.Implemented role-based API access control with Express middleware and bcrypt password hashing, including protected admin provisioning to prevent unauthorized privilege escalation.
+Built a multi-role MERN platform connecting food donors, NGOs, and volunteers, featuring dynamic role-based registration, JWT authentication, and secure cookie-based session management. Implemented role-based API access control with Express middleware and bcrypt password hashing, including protected admin provisioning to prevent unauthorized privilege escalation.
 
 `React.js` `React Router` `Node.js` `Express.js` `Mongoose` `JWT` `bcrypt` `Axios` `JS-Cookie`
 
 <a href="https://github.com/Pravinkumarnattu/Food-Waste-Exchange"><img src="https://img.shields.io/badge/Code-24243e?style=flat-square&logo=github&logoColor=00D9FF" /></a>
-<img src="https://img.shields.io/badge/Live_Demo-24243e?style=flat-square&logo=vercel&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -161,7 +162,7 @@ Mar 2025  ●  Frontend Developer Intern — Nxt Wave CCBP 4.0 Academy (Remote, 
 
 - 🥈 Shortlisted for Round 1 in **HACKXELERATE 26**, a national-level hackathon at KPR Institute of Engineering and Technology — collaborated in a 24-hour innovation sprint
 - 🤖 Built and deployed **3+ AI agent automations** using Make.com and N8N for LinkedIn/Twitter workflows, cutting manual posting time by **70%**
-- 💡 Solved **260+ problems on LeetCode**, demonstrating strong command of data structures, algorithms, and problem-solving
+- 💡 Solved **280+ problems on LeetCode**, demonstrating strong command of data structures, algorithms, and problem-solving
 
 <br/>
 
@@ -173,7 +174,7 @@ Mar 2025  ●  Frontend Developer Intern — Nxt Wave CCBP 4.0 Academy (Remote, 
 
 | Institution | Qualification | Duration | Score |
 |---|---|---|---|
-| Knowledge Institute of Technology (KIOT), Salem | B.E. Electronics & Communication Engineering | Sep 2023 – Present | CGPA 7.7/10 |
+| Knowledge Institute of Technology (KIOT), Salem | B.E. Electronics & Communication Engineering | Sep 2023 – Present | CGPA 7.8/10 |
 | Sri Vijay Vidhyalaya Matric Higher Secondary School, Dharmapuri | Higher Secondary Certificate | Mar 2022 – Mar 2023 | 85% |
 
 <br/>
