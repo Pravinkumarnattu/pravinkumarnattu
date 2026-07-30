@@ -190,10 +190,6 @@ Mar 2025  ●  Frontend Developer Intern — Nxt Wave CCBP 4.0 Academy (Remote, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumarnattu&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00D9FF&text_color=E0E0E0" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravinkumarnattu&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00D9FF&line=00D9FF&point=FFA116&area=true&area_color=00D9FF" width="100%" />
 </p>
 
