@@ -186,23 +186,12 @@ Mar 2025  ●  Frontend Developer Intern — Nxt Wave CCBP 4.0 Academy (Remote, 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pravinkumarnattu&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00D9FF&icon_color=FFA116&text_color=E0E0E0&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravinkumarnattu&theme=radical&hide_border=true&background=0f0c29&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF&sideLabels=E0E0E0" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumarnattu&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00D9FF&text_color=E0E0E0" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravinkumarnattu&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00D9FF&line=00D9FF&point=FFA116&area=true&area_color=00D9FF" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pravinkumarnattu&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
-
-> **Note:** If the cards above show "Loading" or don't render, it's usually a temporary hiccup with the free stats service (Vercel cold start) or a GitHub API rate limit — refresh the page after a few seconds. See the [troubleshooting note](#-a-note-on-the-stats-cards) below if it persists.
 
 <br/>
 
@@ -220,41 +209,6 @@ Mar 2025  ●  Frontend Developer Intern — Nxt Wave CCBP 4.0 Academy (Remote, 
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                     CONNECT                                    -->
-<!-- ============================================================ -->
-
-## 🤝 Connect With Me
-
-<p align="center">
-I'm always open to interesting conversations, collaboration on projects, or opportunities on full-stack/SDE roles. Feel free to reach out!
-</p>
-
-<div align="center">
-
-<a href="https://pravinkumar-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
-<a href="mailto:pravinkumarnattu@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://www.linkedin.com/in/pravinkumar/"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://github.com/Pravinkumarnattu"><img src="https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
-
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--                     STATS NOTE                                 -->
-<!-- ============================================================ -->
-
-## 📝 A Note on the Stats Cards
-
-<a name="-a-note-on-the-stats-cards"></a>
-The GitHub Analytics cards above are powered by free, community-run services (`github-readme-stats`, `streak-stats`, `activity-graph`, `profile-trophy`). They occasionally go down or rate-limit because they're not officially hosted by GitHub. If a card isn't rendering on your repo page:
-
-1. Hard-refresh the README (Ctrl/Cmd + Shift + R) — GitHub caches card images.
-2. Check the service status directly by opening the image URL in a new tab.
-3. As a fallback, you can self-host `github-readme-stats` on your own Vercel account (fork the repo → deploy → swap the domain in the URLs above) for a more reliable, unrate-limited version.
-
-<br/>
 
 <!-- ============================================================ -->
 <!--                     FOOTER                                    -->
